@@ -1,2 +1,2 @@
 # Longest-Subsequence
-Used to compare two strings and find the longest common subsequence in python.
+Codecademy Pro Project - Compares two strings and find the longest common subsequence in python.
